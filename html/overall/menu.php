@@ -7,12 +7,12 @@
       <!--/.navbar-header-->
       <div id="main-nav" class="collapse navbar-collapse">
         <ul class="nav navbar-nav" id="mainNav">
-          <li class="active"><a href="#home" class="scroll-link">Home</a></li>
-          <li><a href="#aboutUs" class="scroll-link">About Us</a></li>
-          <li><a href="#skills" class="scroll-link">Skills</a></li>
-          <li><a href="#experience" class="scroll-link">Experience</a></li>
-          <li><a href="#portfolio" class="scroll-link">Portfolio</a></li>
-          <li><a href="#contactUs" class="scroll-link">Contact Us</a></li>
+          <li class="active"><a href="#home" class="scroll-link">Inicio</a></li>
+          <li><a href="./?view=index#aboutUs" class="scroll-link">Nosotros</a></li>
+          <li><a href="./?view=index#skills" class="scroll-link">Habilidades</a></li>
+          <li><a href="./?view=index#experience" class="scroll-link">Experiencia</a></li>
+          <li><a href="./?view=blog" class="scroll-link">BLOG</a></li>
+          <li><a href="./?view=index#contactUs" class="scroll-link">Contact Us</a></li>
         </ul>
       </div>
       <!--/.navbar-collapse-->
