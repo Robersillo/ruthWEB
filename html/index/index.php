@@ -1,4 +1,4 @@
-<!doctype html>
+
 <?php include ('html/overall/header.php');?>
 
 <body>
