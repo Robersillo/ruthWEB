@@ -2,29 +2,29 @@
 <?php include ('html/overall/header.php');?>
 
 <body>
-<header class="header">
-  <div class="container">
-    <nav class="navbar navbar-inverse" role="navigation">
-      <div class="navbar-header">
-        <button type="button" id="nav-toggle" class="navbar-toggle" data-toggle="collapse" data-target="#main-nav"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+  <header class="header">
+    <div class="container">
+      <nav class="navbar navbar-inverse" role="navigation">
+        <div class="navbar-header">
+          <button type="button" id="nav-toggle" class="navbar-toggle" data-toggle="collapse" data-target="#main-nav"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+          </div>
+        <!--/.navbar-header-->
+        <div id="main-nav" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav" id="mainNav">
+            <li class="active"><a href="#home" class="scroll-link">Home</a></li>
+            <li><a href="#aboutUs" class="scroll-link">About Us</a></li>
+            <li><a href="#skills" class="scroll-link">Skills</a></li>
+            <li><a href="#experience" class="scroll-link">Experience</a></li>
+            <li><a href="#portfolio" class="scroll-link">Portfolio</a></li>
+            <li><a href="#contactUs" class="scroll-link">Contact Us</a></li>
+          </ul>
         </div>
-      <!--/.navbar-header-->
-      <div id="main-nav" class="collapse navbar-collapse">
-        <ul class="nav navbar-nav" id="mainNav">
-          <li class="active"><a href="#home" class="scroll-link">Home</a></li>
-          <li><a href="#aboutUs" class="scroll-link">About Us</a></li>
-          <li><a href="#skills" class="scroll-link">Skills</a></li>
-          <li><a href="#experience" class="scroll-link">Experience</a></li>
-          <li><a href="#portfolio" class="scroll-link">Portfolio</a></li>
-          <li><a href="#contactUs" class="scroll-link">Contact Us</a></li>
-        </ul>
-      </div>
-      <!--/.navbar-collapse-->
-    </nav>
-    <!--/.navbar-->
-  </div>
-  <!--/.container-->
-</header>
+        <!--/.navbar-collapse-->
+      </nav>
+      <!--/.navbar-->
+    </div>
+    <!--/.container-->
+  </header>
 <!--/.header-->
 <div id="#top"></div>
 <section id="home">
@@ -391,17 +391,17 @@
 <a href="#top" class="topHome"><i class="fa fa-chevron-up fa-2x"></i></a>
 
 <!--[if lte IE 8]><script src="views///ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script><![endif]-->
-<script src="views/views/js/modernizr-latest.js"></script>
-<script src="views/views/js/jquery-1.8.2.min.js" type="text/javascript"></script>
-<script src="views/views/js/bootstrap.min.js" type="text/javascript"></script>
-<script src="views/views/js/jquery.isotope.min.js" type="text/javascript"></script>
-<script src="views/views/js/fancybox/jquery.fancybox.pack.js" type="text/javascript"></script>
-<script src="views/views/js/jquery.nav.js" type="text/javascript"></script>
-<script src="views/views/js/jquery.cslider.js" type="text/javascript"></script>
-<script src="views/views/js/jquery.diagram.js"></script>
- <script src="views/views/contact/jqBootstrapValidation.js"></script>
- <script src="views/views/contact/contact_me.js"></script>
-<script src="views/views/js/custom.js" type="text/javascript"></script>
-<script src="views/views/js/owl-carousel/owl.carousel.js"></script>
+<script src="views/js/modernizr-latest.js"></script>
+<script src="views/js/jquery-1.8.2.min.js" type="text/javascript"></script>
+<script src="views/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="views/js/jquery.isotope.min.js" type="text/javascript"></script>
+<script src="views/js/fancybox/jquery.fancybox.pack.js" type="text/javascript"></script>
+<script src="views/js/jquery.nav.js" type="text/javascript"></script>
+<script src="views/js/jquery.cslider.js" type="text/javascript"></script>
+<script src="views/js/jquery.diagram.js"></script>
+ <script src="views/contact/jqBootstrapValidation.js"></script>
+ <script src="views/contact/contact_me.js"></script>
+<script src="views/js/custom.js" type="text/javascript"></script>
+<script src="views/js/owl-carousel/owl.carousel.js"></script>
 </body>
 </html>
