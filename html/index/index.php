@@ -14,22 +14,21 @@
     <div class="container banner-content">
             <div class="row">
                 <header class="centered">
-                    <h1>Sam Doe</h1>
-                    <p>PROFESSIONAL WEB DESIGNER & DEVELOPER</p>
+                    <h1>Dra. Ruth Alvarado</h1>
+                    <p>Coaching Profesional</p>
                 </header>
                 <div class="social-icons">
                         <a href="https://twitter.com/"><i class="fa fa-twitter"></i></a>
                         <a href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a>
-						 <a href="https://www.google.com/"><i class="fa fa-google-plus"></i></a>
-                        <a href="https://www.dribbble.com/"><i class="fa fa-dribbble"></i></a>
+						 <a href="https://www.instagram.com/"><i class="fa fa-instagram"></i></a>
                         <a href="https://www.linkedin.com/"><i class="fa fa-linkedin-square"></i></a>
-                         <a href="https://www.pinterest.com/"><i class="fa fa-pinterest"></i></a>
 
 
                 </div>
-                <a href="#" class="hireMe">Hire Me</a>
+                <a href="./?view=index#contactUs" class="hireMe">Contáctame</a>
             </div>
   </div>
+  <!--About
 </section>
 <section id="introText">
   <div class="container">
@@ -39,6 +38,7 @@
     </div>
   </div>
 </section>
+-->
 <!--About-->
 <section id="aboutUs">
   <div class="container">

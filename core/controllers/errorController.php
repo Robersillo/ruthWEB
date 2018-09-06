@@ -1,3 +1,3 @@
 <?php
 
-echo 'Esta Pagina aun no Existe';
+echo 'Esta pagina aun no EXISTE';
