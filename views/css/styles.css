@@ -58,7 +58,7 @@ p {
 	background: rgba(255,255,255,0.35);
 }
 a {
-	color: #5887FF;
+	color: #26a577;
 	text-decoration: none;
 	text-shadow: none;
 	-webkit-transition: all 0.2s linear;
@@ -101,7 +101,7 @@ a:hover {
 	bottom: 20px;
 	right: 20px;
 	z-index: 5;
-	background: #5887FF;
+	background: #26a577;
 }
 .topHome .fa-2x {
 	font-size: 20px;
@@ -157,7 +157,7 @@ h2 {
 .navbar-toggle {
 }
 .addBg {
-background: #000 !important;
+background: #26a577 !important;
 -webkit-box-shadow: 0px 3px 4px 0px rgba(50, 50, 50, 0.38);
 -moz-box-shadow: 0px 3px 4px 0px rgba(50, 50, 50, 0.38);
 box-shadow: 0px 3px 4px 0px rgba(50, 50, 50, 0.38);
@@ -242,7 +242,7 @@ box-shadow: 0px 3px 4px 0px rgba(50, 50, 50, 0.38);
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
 	color: #fff;
 	background: none;
-	border-bottom:2px solid #5887FF;
+	border-bottom:2px solid #a7e535;
 	border-radius: 0px;
 }
 .navbar-nav > li:hover > a {
@@ -925,14 +925,14 @@ footer {
 background: #DBDBDB;
 	}
 #contactUs{
-	 background: #3394D5;
+	 background: #36c297;
 }
 #contactUs p{
 color:#000;
 }
 #contactUs .btn{
 background: #fff;
-color: #5887FF;
+color: #36c297;
 }
 #contactUs .btn:hover{
 color: #000;
