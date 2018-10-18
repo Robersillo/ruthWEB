@@ -1,0 +1,9 @@
+@font-face {
+font-family: "Brush Script MT";
+src: url("brush script mt kursiv.ttf");
+}
+
+.familyy {
+  font-family: "Brush Script MT";
+  text-transform: none!important;
+}
