@@ -12,7 +12,7 @@
           <li><a href="./?view=index#skills" class="scroll-link">Habilidades</a></li>
           <li><a href="./?view=index#experience" class="scroll-link">Experiencia</a></li>
           <li><a href="./?view=blog" class="scroll-link">BLOG</a></li>
-          <li><a href="./?view=index#contactUs" class="scroll-link">Contacto</a></li>
+          <li><a href="./?view=index#contactUs" class="scroll-link">Contact Us</a></li>
         </ul>
       </div>
       <!--/.navbar-collapse-->

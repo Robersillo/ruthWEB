@@ -14,7 +14,7 @@
     <div class="container banner-content">
             <div class="row">
                 <header class="centered">
-                    <h1 class="familyy">Dra. Ruth Alvarado</h1>
+                    <h1>Dra. Ruth Alvarado</h1>
                     <p>Coaching Profesional</p>
                 </header>
                 <div class="social-icons">
@@ -22,6 +22,8 @@
                         <a href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a>
 						 <a href="https://www.instagram.com/"><i class="fa fa-instagram"></i></a>
                         <a href="https://www.linkedin.com/"><i class="fa fa-linkedin-square"></i></a>
+
+
                 </div>
                 <a href="./?view=index#contactUs" class="hireMe">Contáctame</a>
             </div>
