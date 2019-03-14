@@ -336,11 +336,13 @@ margin:0 6px;
 }
 .banner-content .social-icons a i{
 font-size:26px;
+text-shadow: -2px -2px 1px #000;
 }
 .banner-content .social-icons a:hover {
-background:#36c297;
+background:#26a577;
 color:#fff;
-border: 1px solid #36c297;
+border: 7px solid #26a577;
+    border-radius: 5px;
 }
 .banner-content .hireMe:hover{
 background:#36c297;
@@ -356,6 +358,7 @@ width: 90px;
 color:#000;
 padding:8px 5px;
 margin-top:3%;
+    border-radius: 5px;
 }
 .banner-content header  h1{
  text-align:center;
