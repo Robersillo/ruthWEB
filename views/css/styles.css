@@ -244,6 +244,9 @@ box-shadow: 0px 3px 4px 0px rgba(50, 50, 50, 0.38);
 	background: none;
 	border-bottom:2px solid #a7e535;
 	border-radius: 0px;
+	text-shadow: -2px -2px 1px #00000036;
+	font-size: 20px;
+	font-weight: 900;
 }
 .navbar-nav > li:hover > a {
 	color: #fff;
@@ -379,6 +382,9 @@ padding: 0 8px;
 letter-spacing: .1em;
 line-height: 1em;
 text-transform: uppercase;
+text-shadow: -2px -2px 1px #00000036;
+font-size: 20px;
+font-weight: 900;
 }
 .centered {
 margin-left: auto;
