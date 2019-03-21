@@ -65,7 +65,7 @@
   <div class="parlex-back">
     <div class="container">
      <div class="row">
-	<div class="col-md-12">      <h2>“Dreams are extremely important. You can’t do it unless you imagine it.” <span>-George Lucas</span></h2></div>
+	<div class="col-md-12">      <h2>“Los sueños son extremadamente importantes. No puedes hacerlo a menos que te lo imagines.” <span>-George Lucas</span></h2></div>
       </div>
     </div>
     <!--/.container-->
@@ -77,7 +77,7 @@
   <div class="container">
     <div class="heading ">
       <!-- Heading -->
-      <h2>My Skills</h2>
+      <h2>Mis Habilidades</h2>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse interdum erat et neque tincidunt volutpat. Cras eget augue id dui varius pretium. Cras posuere dolor risus. Pellentesque elementum ultricies quam, sit amet rhoncus nisl viverra in. Cras imperdiet nisi a euismod molestie. Ut a metus arcu. Pellentesque feugiat dictum erat. </p>
     </div>
     <div class="row skillContainer">
@@ -153,7 +153,7 @@
 <div class="container">
 <div class="heading">
   <!-- Heading -->
-  <h2>Experience</h2>
+  <h2>Experiencia</h2>
   <br/>
   <h4>12 Years Experience!</h4>
   <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.</p>
@@ -198,7 +198,7 @@
     <div class="row">
       <div class="heading">
         <!-- Heading -->
-        <h2>Let's Keep In Touch!</h2>
+        <h2>¡Mantengámonos en contacto!</h2>
         <p>Thank you for visiting out my profile. If you would like to get into contact with me, please fill out the form below.</p>
       </div>
     </div>
