@@ -8,7 +8,7 @@
       <div id="main-nav" class="collapse navbar-collapse">
         <ul class="nav navbar-nav" id="mainNav">
           <li class="active"><a href="#home" class="scroll-link">Inicio</a></li>
-          <li><a href="./?view=index#aboutUs" class="scroll-link">Nosotros</a></li>
+          <li><a href="./?view=index#aboutUs" class="scroll-link">Conóceme</a></li>
           <li><a href="./?view=index#skills" class="scroll-link">Habilidades</a></li>
           <li><a href="./?view=index#experience" class="scroll-link">Experiencia</a></li>
           <li><a href="./?view=blog" class="scroll-link">BLOG</a></li>
