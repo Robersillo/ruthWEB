@@ -2,9 +2,9 @@
   <div class="container">
     <div class="row">
       <div class="col-md-6">
-        <div class="social pull-left"> <a href="#"><i class="fa fa-twitter"></i></a> <a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-dribbble"></i></a> <a href="#"><i class="fa fa-flickr"></i></a> <a href="#"><i class="fa fa-github"></i></a> </div>
+        <div class="social pull-left"> <a href="#"><i class="fa fa-twitter"></i></a> <a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-instagram"></i></a> <a href="#"><i class="fa fa-linkedin-square"></i></a> </div>
       </div>
-      <div class="col-md-6"> <span class="pull-right">Copyright 2014 | All Rights Reserved  -- Template by <a href="http://webThemez.com">WebThemez.com</a></span> </div>
+      <div class="col-md-6"> <span class="pull-right">Copyright 2019 | All Rights Reserved <a href="">ruthWEB.com</a></span> </div>
     </div>
     <!-- / .row -->
   </div>

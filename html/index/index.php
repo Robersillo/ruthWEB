@@ -199,7 +199,7 @@
       <div class="heading">
         <!-- Heading -->
         <h2>¡Mantengámonos en contacto!</h2>
-        <p>Thank you for visiting out my profile. If you would like to get into contact with me, please fill out the form below.</p>
+        <p>Gracias por visitar mi web. Si deseas ponerte en contacto conmigo, completa el formulario y en breve te respondere.</p>
       </div>
     </div>
     <div class="row mrgn30">
