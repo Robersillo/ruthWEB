@@ -124,6 +124,13 @@ h2 {
 	border-radius: 0;
 	top: 0px;
 }
+.header2 {
+	width: 100%;
+	background: transpreant;
+	z-index: 50;
+	border-radius: 0;
+	top: 0px;
+}
 .navbar-inverse .navbar-toggle {
 	border-color: #36c297;
 	background-color: #36c297;
