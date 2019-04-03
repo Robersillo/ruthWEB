@@ -67,7 +67,7 @@
     <hr>
     <hr>
 
-    <!-- Pagination -->
+    <!--
     <div class="row text-center">
         <div class="col-lg-12">
             <ul class="pagination">
@@ -98,6 +98,6 @@
             </ul>
         </div>
     </div>
-    <!-- /.row -->
+    -->
 
     <hr>
