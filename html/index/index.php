@@ -205,7 +205,7 @@
     <div class="row mrgn30">
  						<div class="col-sm-12 col-md-8">
 										<!--NOTE: Update your email Id in "contact_me.php" file in order to receive emails from your contact form-->
-		<form name="sentMessage" id="contactForm"  novalidate>
+		<form action="views/contact/contact_me.php" name="sentMessage" id="contactForm">
 		<div class="control-group">
 		<div class="controls">
 		<input type="text" class="form-control"
